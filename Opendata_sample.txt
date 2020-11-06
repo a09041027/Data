@@ -1,0 +1,16 @@
+https://data.moi.gov.tw/MoiOD/default/Index.aspx
+https://data.taipei/
+https://opendata.taichung.gov.tw/
+https://opendata.epa.gov.tw/
+https://www.ndc.gov.tw/News8.aspx?n=9D32B61B1E56E558&sms=9D3CAFD318C60877
+
+
+https://archive.ics.uci.edu/ml/datasets/iris
+https://data.europa.eu/euodp/en/data/publisher/9c0d04b1-a494-4f70-80b2-54024b6f8b0c?organization=estat&_tags_limit=0
+https://www.kaggle.com/datasets
+https://www.ntbt.gov.tw/multiplehtml/6616b48a1f5a4eeca22d41fe18278b30
+https://www.data.gov/
+https://public.opendatasoft.com/explore/?sort=modified
+https://www.mlhub.earth/?gclid=EAIaIQobChMI5vvw3IXt6wIVxNeWCh2CuwOzEAAYAyAAEgK08vD_BwE#datasets
+https://www.siia.net/blog/index/Post/76153/Crafting-Open-Government-Data-Policies-in-a-Complex-Era
+https://www.datainnovation.org/2015/03/open-data-in-the-g8/?gclid=EAIaIQobChMItdPp44Xt6wIVGLeWCh2HdwHWEAAYASAAEgI___D_BwE
